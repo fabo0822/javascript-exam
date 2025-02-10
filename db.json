@@ -1,0 +1,155 @@
+{
+    "dc": [
+      {
+        "id": 1,
+        "nombre": "Superman",
+        "nombre_real": "Clark Kent / Kal-El",
+        "origen": "Planeta Krypton",
+        "poderes": [
+          "Superfuerza",
+          "Vuelo",
+          "Visión de calor",
+          "Súper velocidad",
+          "Invulnerabilidad"
+        ],
+        "habilidades": [
+          "Hábil periodista",
+          "Gran liderazgo",
+          "Alta inteligencia"
+        ],
+        "historia_comics": "Superman debutó en Action Comics #1 (1938). Es el último hijo de Krypton, enviado a la Tierra antes de la destrucción de su planeta. Criado como Clark Kent en Smallville, se convierte en un símbolo de esperanza y justicia en Metrópolis.",
+        "apariciones_cine": [
+          "Superman (1978)",
+          "Superman Returns (2006)",
+          "Man of Steel (2013)",
+          "Batman v Superman: Dawn of Justice (2016)",
+          "Justice League (2017)"
+        ],
+        "curiosidades": "La 'S' en su pecho no significa 'Superman', sino 'Esperanza' en kryptoniano.",
+        "imagen": "../images/superman.png"
+      },
+      {
+        "id": 2,
+        "nombre": "Batman",
+        "nombre_real": "Bruce Wayne",
+        "origen": "Gotham City",
+        "poderes": [
+            "Habilidad de combate experto",
+            "Inteligencia avanzada"
+
+        ],
+        "habilidades": [
+          "Detective experto",
+          "Maestro en artes marciales",
+          "Estratega brillante",
+          "Uso de tecnología avanzada"
+        ],
+        "historia_comics": "Batman apareció por primera vez en Detective Comics #27 (1939). Después del asesinato de sus padres, Bruce Wayne jura luchar contra el crimen usando su intelecto, entrenamiento físico y recursos tecnológicos.",
+        "apariciones_cine": [
+          "Batman (1989)",
+          "The Dark Knight (2008)",
+          "Batman v Superman: Dawn of Justice (2016)",
+          "The Batman (2022)"
+        ],
+        "curiosidades": "Tiene planes de contingencia para derrotar a cada miembro de la Liga de la Justicia, por si alguna vez se vuelven contra la humanidad.",
+        "imagen": "../images/batman.png"
+      },
+      {
+        "id": 3,
+        "nombre": "Wonder Woman",
+        "nombre_real": "Diana Prince",
+        "origen": "Isla Themyscira",
+        "poderes": [
+          "Superfuerza",
+          "Velocidad sobrehumana",
+          "Resistencia sobrehumana",
+          "Lazo de la verdad",
+          "Inmortalidad"
+        ],
+        "habilidades": [
+          "Maestra en combate",
+          "Liderazgo táctico",
+          "Amplio conocimiento en historia y mitología"
+        ],
+        "historia_comics": "Wonder Woman debutó en All Star Comics #8 (1941). Criada como una guerrera amazona, deja su hogar para luchar por la paz y la justicia en el mundo de los humanos.",
+        "apariciones_cine": [
+          "Wonder Woman (2017)",
+          "Justice League (2017)",
+          "Wonder Woman 1984 (2020)"
+        ],
+        "curiosidades": "En los cómics originales, podía comunicarse con los animales.",
+        "imagen": "../images/wonderwoman.png"
+      }
+    ],
+    "marvel": [
+      {
+        "id": 4,
+        "nombre": "Spider-Man",
+        "nombre_real": "Peter Parker",
+        "origen": "Nueva York",
+        "poderes": [
+          "Sentido arácnido",
+          "Superfuerza",
+          "Trepar paredes",
+          "Agilidad sobrehumana"
+        ],
+        "habilidades": [
+          "Genio científico",
+          "Fotógrafo hábil",
+          "Combate cuerpo a cuerpo"
+        ],
+        "historia_comics": "Spider-Man debutó en Amazing Fantasy #15 (1962). Tras ser mordido por una araña radiactiva, Peter Parker obtiene habilidades sobrehumanas y jura usar sus poderes para el bien tras la muerte de su tío Ben.",
+        "apariciones_cine": [
+          "Spider-Man (2002)",
+          "The Amazing Spider-Man (2012)",
+          "Spider-Man: Homecoming (2017)"
+        ],
+        "curiosidades": "Su traje clásico fue diseñado por Steve Ditko.",
+        "imagen": "../images/spiderman.png"
+      },
+      {
+        "id": 5,
+        "nombre": "Iron Man",
+        "nombre_real": "Tony Stark",
+        "origen": "Nueva York",
+        "poderes": [
+          "Armadura con tecnología avanzada"
+        ],
+        "habilidades": [
+          "Genio en ingeniería",
+          "Estratega brillante",
+          "Experto en combate con armadura"
+        ],
+        "historia_comics": "Iron Man debutó en Tales of Suspense #39 (1963). Tony Stark, un multimillonario genio, construye una armadura avanzada para escapar de su cautiverio y se convierte en el Vengador blindado.",
+        "apariciones_cine": [
+          "Iron Man (2008)",
+          "Avengers: Endgame (2019)"
+        ],
+        "curiosidades": "La personalidad de Tony Stark está inspirada en el magnate Howard Hughes.",
+        "imagen": "../images/ironman.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Captain America",
+        "nombre_real": "Steve Rogers",
+        "origen": "Brooklyn, Nueva York",
+        "poderes": [
+          "Fuerza sobrehumana",
+          "Reflejos mejorados",
+          "Resistencia sobrehumana"
+        ],
+        "habilidades": [
+          "Experto en combate cuerpo a cuerpo",
+          "Estratega militar"
+        ],
+        "historia_comics": "Captain America debutó en Captain America Comics #1 (1941). Steve Rogers, un joven frágil, es mejorado con el suero del súper soldado y se convierte en el defensor de la libertad.",
+        "apariciones_cine": [
+          "Captain America: The First Avenger (2011)",
+          "Avengers: Endgame (2019)"
+        ],
+        "curiosidades": "Su escudo es hecho de vibranium, uno de los metales más fuertes del universo Marvel.",
+        "imagen": "../images/capitanAmerica.png"
+      }
+    ]
+  }
+  
